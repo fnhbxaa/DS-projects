@@ -1,4 +1,4 @@
-# DS-projects
+# Loan Default Prediction 
 
 Dataset: https://www.kaggle.com/datasets/ajay1735/hmeq-data 
 
