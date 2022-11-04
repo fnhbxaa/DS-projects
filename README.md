@@ -7,3 +7,7 @@ recommendations to the bank on the important features to consider while approvin
 
 **Model Results:**
 ![alt text](https://github.com/fnhbxaa/DS-projects/blob/cf93fe5be95dd69e7951f9773616e7a1d0c0fbff/image.png)
+
+**Presentation Summary:** [LINK](https://github.com/fnhbxaa/Home-Equity-Loan-Default-Prediction/blob/cecd469ccee8304d1de9009613a029553d72261b/Classification%20Presentation_Maggie%20Hao.pdf)
+
+**Report Summary:** [LINK](https://github.com/fnhbxaa/Home-Equity-Loan-Default-Prediction/blob/cecd469ccee8304d1de9009613a029553d72261b/Maggie%20Hao_Capstone%20Project%20Final%20Report.pdf)
